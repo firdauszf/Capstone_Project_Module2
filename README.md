@@ -1,6 +1,7 @@
 # Capstone_Project_Module2
 Capstone Project Modul 2 : Transaksi Transjakarta
-Latar Belakang :
+
+**LATAR BELAKANG :**
 
 1.Angka pertumbuhan kendaraan seperti motor dan mobil meningkat 2020 - 2022. 
 Untuk mobil di tahun 2021 sebesar 5.32 % dan di 2022 meningkat menjadi 6.25%
@@ -10,7 +11,7 @@ Latar Belakang :
 
 3.Minat masyarakat untuk menggunakan transportasi TransJakarta dikarenakan tarif yang relatif murah jika dibandingkan dengan beberapa pilihan moda transportasi lainnya seperti MRT, LRT serta moda transportasi berbasis online. Namun, sejak beroperasional pada tahun 2004, banyak kekurangan dalam sistem pelayanan TransJakarta, seperti kurangnya armada untuk menampung penumpang yang menyebabkan over capacity serta masih terdapat koridor yang belum steril dari kendaraan pribadi yang menyebakan waktu perjalanan tidak optimal.
 
-Masalah dan Tujuan :
+**MASALAH DAN TUJUAN :**
 Dalam konteks pengembangan sistem transportasi Transjakarta, ada beberapa masalah dan tujuan yang ingin dipecahkan. Salah satu fokus utama adalah meningkatkan efektivitas, efisiensi, dan profitabilitas operasional Transjakarta. Untuk mencapai tujuan ini, akan dijelajahi berbagai aspek yang dapat menjadi temuan, termasuk aspek-aspek berikut:
 
 
@@ -24,7 +25,7 @@ Dalam konteks pengembangan sistem transportasi Transjakarta, ada beberapa masala
 
 Dari 4 hal yang disebutkan, diharapkan bisa membantu stakeholders terkait yaitu Divisi Operasional dan Pelayanan & Bisnis Transjakarta
 
-KESIMPULAN :
+**KESIMPULAN :**
 1. Pengguna Transjakarta
 - Mayoritas pengguna transjakarta adalah perempuan sebesar 53,35% (1055 Pengguna), sementara laki-laki menyumbang 46,65% (925 Pengguna)
 
@@ -51,7 +52,9 @@ merupakan kelompok kerja dengan tingkat produktif puncak. Dan kelompok usia yang
 - dalam koridor tersibuk hari kerja ini kartu DKI masih yang cukup dominan urutan pertama di 6-7 koridor dalam menjadi alat metode pemmabayran. namun ada 3-4 koridor yang dimana bank lain lebih dominan. Sedangkan pembayaran online menjadi yang paling sedikit digunakan dan hanya digunakan di 3-5 koridor saja
 - Koridor Pinang Ranti - Kampung Rambutan (ID : JAK.19) merupakan koridor dengan tingkat penggunaan paling tinggi saat akhir pekan didikuti diikuti 9 koridor lainnya dengan persebaran yang cukup merata
 - dalam koridor tersibuk akhir pekan ini kartu DKI menempati posisi pertama di 4 koridor saja dalam menjadi alat metode pemmabayran. Sedangkan ada 6 koridor lainnya yang dimana bank lain lebih dominan. Sedangkan pembayaran online menjadi yang paling sedikit digunakan dan hanya digunakan di 8 koridor saja
-REKOMENDASI :
+
+  
+**REKOMENDASI :**
 1. Meningkatkan Pemanfaatan Kartu DKI: Direkomendasikan untuk mengintensifkan promosi Kartu DKI sebagai metode pembayaran yang efektif. Dengan meluncurkan strategi loyalitas pelanggan, seperti diskon atau penghargaan khusus untuk pengguna setia, Transjakarta dapat mendorong pengguna untuk lebih sering menggunakan Kartu DKI utamanya di jam-jam sibuk dihari kerja. terlebih lagi untuk koridor yang penggunaan kartu DKI nya diurutan kedua atau bahkan tidak ada.
 
 2. Meniadakan Pembayaran Online: Dengan tahu bahwa pembayaran ini paling sedikit digunakan dan masih banyak nya koridor yang tidak menggunakannya dipertimbangkan untuk dihapus. Dan fokus untuk peningkatan profit melalui kartu DKI yang sudah sangat dominan digunakan.
